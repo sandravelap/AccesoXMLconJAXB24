@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<espacios>
+    <espacio tipo="Parques Naturales">
+        <nombre>Parque Natural de Gorbeia</nombre>
+        <telefono>+34 945 430 709</telefono>
+        <municipios>Urkabustaiz Zigoitia Orozko Zuia Artea Zeanuri Zeberio Areatza</municipios>
+        <country>España España España España España España España España</country>
+    </espacio>
+    <espacio tipo="Parques Naturales">
+        <nombre>Parque Natural de Aralar</nombre>
+        <telefono />
+        <municipios>Tolosa Ataun Lazkao Abaltzisketa Zaldibia Amezketa</municipios>
+        <country>España España España España España España</country>
+    </espacio>
+    <espacio tipo="Parques Naturales">
+        <nombre>Parque Natural Aiako Harria</nombre>
+        <telefono />
+        <municipios>Donostia / San Sebastián Oiartzun Irun Hernani Errenteria</municipios>
+        <country>España España España España España</country>
+    </espacio>
+    <espacio tipo="Parques Naturales">
+        <nombre>Parque Natural de Valderejo</nombre>
+        <telefono />
+        <municipios>Valdegovía/Gaubea Valdegovía/Gaubea Valdegovía/Gaubea Valdegovía/Gaubea</municipios>
+        <country>España España España España</country>
+    </espacio>
+    <espacio tipo="Parques Naturales">
+        <nombre>Parque Natural de Urkiola</nombre>
+        <telefono />
+        <municipios>Abadiño Aramaio Dima Durango Mañaria Atxondo Izurtza</municipios>
+        <country>España España España España España España España</country>
+    </espacio>
+    <espacio tipo="Parques Naturales">
+        <nombre>Parque Natural de Izki</nombre>
+        <telefono />
+        <municipios>Bernedo Campezo/Kanpezu Arraia-Maeztu</municipios>
+        <country>España España España</country>
+    </espacio>
+    <espacio tipo="Biotopos protegidos">
+        <nombre>Biotopo Protegido de San Juan de Gaztelugatxe</nombre>
+        <telefono />
+        <municipios>Bakio Bermeo</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Aritzatxu</nombre>
+        <telefono />
+        <municipios>Bermeo</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de La Arena</nombre>
+        <telefono />
+        <municipios>Zierbena Muskiz</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Toña</nombre>
+        <telefono />
+        <municipios>Sukarrieta</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Ondarbeltz</nombre>
+        <telefono />
+        <municipios>Mutriku</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Isuntza</nombre>
+        <telefono />
+        <municipios>Lekeitio</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Gorrondatxe (Azkorri)</nombre>
+        <telefono />
+        <municipios>Getxo</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Las Arenas</nombre>
+        <telefono />
+        <municipios>Getxo</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Ondarreta</nombre>
+        <telefono />
+        <municipios>Donostia / San Sebastián</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Laga</nombre>
+        <telefono />
+        <municipios>Ibarrangelu</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Gaztetape</nombre>
+        <telefono />
+        <municipios>Getaria</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Arrigorri</nombre>
+        <telefono />
+        <municipios>Ondarroa</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Ereaga</nombre>
+        <telefono />
+        <municipios>Getxo</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Laida</nombre>
+        <telefono />
+        <municipios>Ibarrangelu</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Gorliz</nombre>
+        <telefono />
+        <municipios>Gorliz</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de la Zurriola</nombre>
+        <telefono />
+        <municipios>Donostia / San Sebastián</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Kanalape</nombre>
+        <telefono />
+        <municipios>Gautegiz Arteaga</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de La Concha</nombre>
+        <telefono />
+        <municipios>Donostia / San Sebastián</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Malkorbe</nombre>
+        <telefono />
+        <municipios>Getaria</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Bakio</nombre>
+        <telefono />
+        <municipios>Bakio</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Laidatxu</nombre>
+        <telefono />
+        <municipios>Mundaka</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playas de Arriatera y Atxabiribil</nombre>
+        <telefono />
+        <municipios>Sopela</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Kanala</nombre>
+        <telefono />
+        <municipios>Gautegiz Arteaga</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Hondarribia</nombre>
+        <telefono />
+        <municipios>Hondarribia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Antilla</nombre>
+        <telefono />
+        <municipios>Orio</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa del Puerto (Mutriku)</nombre>
+        <telefono />
+        <municipios>Mutriku</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Muriola</nombre>
+        <telefono />
+        <municipios>Barrika</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Arrigunaga</nombre>
+        <telefono />
+        <municipios>Getxo</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Karraspio</nombre>
+        <telefono />
+        <municipios>Mendexa</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Hondartzape</nombre>
+        <telefono />
+        <municipios>Mundaka</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Saturraran</nombre>
+        <telefono />
+        <municipios>Mutriku</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Santiago</nombre>
+        <telefono />
+        <municipios>Zumaia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Barinatxe</nombre>
+        <telefono />
+        <municipios>Getxo Sopela</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa Santiago de Deba</nombre>
+        <telefono />
+        <municipios>Deba</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Itzurun</nombre>
+        <telefono />
+        <municipios>Zumaia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Barrika</nombre>
+        <telefono />
+        <municipios>Barrika</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Zierbena-Puerto</nombre>
+        <telefono />
+        <municipios>Zierbena</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Plentzia</nombre>
+        <telefono />
+        <municipios>Plentzia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de San Antonio</nombre>
+        <telefono />
+        <municipios>Sukarrieta Busturia</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Ogeia</nombre>
+        <telefono />
+        <municipios>Ispaster</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Biotopos protegidos">
+        <nombre>Biotopo Protegido Complejo Lagunar de Laguardia</nombre>
+        <telefono />
+        <municipios>Laguardia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Biotopos protegidos">
+        <nombre>Biotopo Protegido de Itxina</nombre>
+        <telefono>946 739 279</telefono>
+        <municipios>Orozko</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Parques Naturales">
+        <nombre>Parque Natural de Aizkorri-Aratz</nombre>
+        <telefono />
+        <municipios>Zerain Zegama Aretxabaleta Zalduondo San Millán/Donemiliaga Barrundia
+            Asparrena Legazpi Oñati Leintz-Gatzaga Eskoriatza</municipios>
+        <country>España España España España España España España España España España España</country>
+    </espacio>
+    <espacio tipo="Biotopos protegidos">
+        <nombre>Biotopo Protegido de Iñurritza</nombre>
+        <telefono />
+        <municipios>Zarautz</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Parques Naturales">
+        <nombre>Parque Natural de Pagoeta</nombre>
+        <telefono />
+        <municipios>Aia Zestoa Zarautz</municipios>
+        <country>España España España</country>
+    </espacio>
+    <espacio tipo="Futuros espacios naturales protegidos">
+        <nombre>Parque Ecológico de Plaiaundi</nombre>
+        <telefono />
+        <municipios>Irun</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Reservas de la biosfera">
+        <nombre>Urdaibai</nombre>
+        <telefono />
+        <municipios>Sukarrieta Errigoiti Forua Kortezubi Murueta Nabarniz Ajangiz Arratzu
+            Gernika-Lumo Gautegiz Arteaga Ereño Elantxobe Busturia Bermeo Arrieta
+            Munitibar-Arbatzegi Gerrikaitz Amorebieta-Etxano Mundaka Muxika Ibarrangelu Mendata
+            Morga</municipios>
+        <country>España España España España España España España España España España España España
+            España España España España España España España España España España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Zarautz</nombre>
+        <telefono />
+        <municipios>Zarautz</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Pantanos">
+        <nombre>Embalse de Urkulu</nombre>
+        <telefono />
+        <municipios>Aretxabaleta</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Pantanos">
+        <nombre>Embalse de Ullíbarri-Gamboa</nombre>
+        <telefono />
+        <municipios>Arratzua-Ubarrundia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Pantanos">
+        <nombre>Embalse de Urrúnaga</nombre>
+        <telefono />
+        <municipios>Otxandio Legutio Legutio Legutio</municipios>
+        <country>España España España España</country>
+    </espacio>
+    <espacio tipo="Pantanos">
+        <nombre>Embalse de Maroño</nombre>
+        <telefono />
+        <municipios>Ayala/Aiara</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Rios">
+        <nombre>Piscinas fluviales de Espejo</nombre>
+        <telefono />
+        <municipios>Valdegovía/Gaubea</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Rios">
+        <nombre>Piscinas fluviales de Fresnedo</nombre>
+        <telefono />
+        <municipios>Campezo/Kanpezu</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Armintza</nombre>
+        <telefono />
+        <municipios>Lemoiz</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Ea</nombre>
+        <telefono />
+        <municipios>Ea</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Meñakoz</nombre>
+        <telefono />
+        <municipios>Barrika Sopela</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="Pantanos">
+        <nombre>La Arboleda</nombre>
+        <telefono />
+        <municipios>Valle de Trápaga-Trapagaran</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Biotopos protegidos">
+        <nombre>Biotopo Protegido de Leitzaran</nombre>
+        <telefono />
+        <municipios>Andoain Berastegi Elduain Villabona</municipios>
+        <country>España España España España</country>
+    </espacio>
+    <espacio tipo="Biotopos protegidos">
+        <nombre>La Rasa Mareal y los acantilados del Flysch</nombre>
+        <telefono />
+        <municipios>Zumaia Deba</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="Futuros espacios naturales protegidos">
+        <nombre>Sierra de Entzia</nombre>
+        <telefono />
+        <municipios>San Millán/Donemiliaga Agurain/Salvatierra Arraia-Maeztu Asparrena
+            Harana/Valle de Arana</municipios>
+        <country>España España España España España</country>
+    </espacio>
+    <espacio tipo="Geoparque">
+        <nombre>Geoparque de la Costa Vasca</nombre>
+        <telefono />
+        <municipios>Deba Mutriku Zumaia</municipios>
+        <country>España España España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de la Isla de Santa Clara</nombre>
+        <telefono />
+        <municipios>Donostia / San Sebastián</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Alkolea</nombre>
+        <telefono />
+        <municipios>Mutriku</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Txingudi</nombre>
+        <telefono />
+        <municipios>Irun</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Urdaibai</nombre>
+        <telefono />
+        <municipios>Gautegiz Arteaga</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Sierra Salvada</nombre>
+        <telefono />
+        <municipios>Urduña/Orduña Amurrio</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Valderejo</nombre>
+        <telefono />
+        <municipios>Valdegovía/Gaubea</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Salburua</nombre>
+        <telefono />
+        <municipios>Vitoria-Gasteiz</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Embalse de Ullibarri Gamboa</nombre>
+        <telefono />
+        <municipios>Arratzua-Ubarrundia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Izki</nombre>
+        <telefono />
+        <municipios>Arraia-Maeztu</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Lagunas de Laguardia</nombre>
+        <telefono />
+        <municipios>Laguardia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Sierras Meridionales de Álava</nombre>
+        <telefono />
+        <municipios>Arraia-Maeztu</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playa de Landa</nombre>
+        <telefono />
+        <municipios>Arratzua-Ubarrundia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Playas">
+        <nombre>Playas de Garaio</nombre>
+        <telefono />
+        <municipios>Barrundia Elburgo/Burgelu</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="0010">
+        <nombre>Bahía de Plentzia</nombre>
+        <telefono />
+        <municipios>Gorliz Plentzia</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="0010">
+        <nombre>Bahía de Txingudi y Hondarribia</nombre>
+        <telefono />
+        <municipios>Hondarribia</municipios>
+        <country>España</country>
+    </espacio>
+    <espacio tipo="Jardines Botánicos">
+        <nombre>Armañón</nombre>
+        <telefono>946 560 079</telefono>
+        <municipios>Trucios-Turtzioz Karrantza Harana/Valle de Carranza</municipios>
+        <country>España España</country>
+    </espacio>
+    <espacio tipo="Parques Naturales">
+        <nombre>Parque Natural de Armañón</nombre>
+        <telefono />
+        <municipios>Karrantza Harana/Valle de Carranza Trucios-Turtzioz</municipios>
+        <country>España España</country>
+    </espacio>
+</espacios>
